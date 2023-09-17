@@ -6,7 +6,7 @@ import requests
 import json
 
 
-TOKEN ="6180404138:AAErtjIk_5RBtZjFT_TAbP7i6oZJqq_ysB4"
+TOKEN ="TELEGRAM_TOKEN_KEY"
     
 def start(update,context):
        update.message.reply_text("<b>Merhaba, Hoşgeldiniz.\nWeb Sitesi: /site \nYoutube: /youtube \nRapor: /rapor \nArıza: /ariza \nMasraf: /masraf \nHava Durumu: /weather</b>",parse_mode = telegram.ParseMode.HTML)

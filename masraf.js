@@ -1,0 +1,1 @@
+{"Tarih: ": "10.09.2023", "Aciklama: ": "A101", "Tutar: ": "100\u20ba"}{"Tarih: ": "11.09.2023", "Aciklama: ": "Shell", "Tutar: ": "50\u20ba"}
